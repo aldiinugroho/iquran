@@ -23,7 +23,7 @@ class _MainHeaderState extends State<MainHeader> {
       width: screenwdth,
       height: screenwdth / 2,
       child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-        const Text('EQURAN',
+        const Text('IQURAN INDONESIA',
             style: TextStyle(
                 color: Colors.white,
                 fontWeight: FontWeight.bold,
